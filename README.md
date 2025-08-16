@@ -47,18 +47,6 @@ Watch the complete walkthrough of the project here:
 
 ---
 
-## 📸 Preview
-
-![Website Screenshot](./project1.png)
-
----
-
-## 📎 Resume
-
-📄 [Download CV](https://docs.google.com/document/d/1Mo7ZWPiztQnWugnZAFv5ME_WvPdJSX_J/edit?usp=sharing&ouid=113968343891860469542&rtpof=true&sd=true)
-
----
-
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tharun-gutta-2a24b4251/)
